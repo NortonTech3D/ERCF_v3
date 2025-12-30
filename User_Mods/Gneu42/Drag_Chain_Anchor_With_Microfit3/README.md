@@ -1,4 +1,4 @@
-<h1 align="center"><ins>Darg chain anchor with Microfit 3 connectors </ins></h1>
+<h1 align="center"><ins>Drag chain anchor with Microfit 3 connectors </ins></h1>
 
 
 <p align=center><img src="images/anchor3.JPG" width="500" alt="anchor3.JPG"> </p>
