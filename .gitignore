@@ -1,5 +1,10 @@
+# OS-specific files
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
